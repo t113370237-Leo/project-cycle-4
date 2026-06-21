@@ -8,8 +8,8 @@ To ensure robust statistical conclusions, this project employs a two-step analyt
 2. **Multiple Linear Regression:** To test the robustness of the ANOVA findings by controlling for a key lifestyle variable (`AerobicExercise`), determining if the threat effect remains significant after accounting for exercise habits.
 
 ## 🎥 Presentation Video
-👉 **[Click Here to Watch My Presentation Video](https://youtu.be/YOUR_VIDEO_ID_HERE)** 👈
-*(If the link above doesn't work, please copy and paste this URL: https://youtu.be/YOUR_VIDEO_ID_HERE )*
+👉 **[Click Here to Watch My Presentation Video](https://youtu.be/ErRla7U0etY)** 👈
+*(If the link above doesn't work, please copy and paste this URL: https://youtu.be/ErRla7U0etY )*
 
 ## 👤 Author Information
 * **Name:** 李宥宣 (Leo)
